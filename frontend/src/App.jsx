@@ -1,10 +1,11 @@
 
+
 function App() {
 
   return (
-    <div>
-        Hello world
-    </div>
+    <>
+    <h1 className="bg-gray-600">installl tailwind with vite</h1>
+    </>
   )
 }
 
